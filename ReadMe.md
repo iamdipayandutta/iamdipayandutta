@@ -8,10 +8,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=iamdipayandutta&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdipayandutta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=iamdipayandutta&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -20,4 +18,3 @@
 <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/iamdipayandutta">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
