@@ -1,5 +1,5 @@
 # 💫 About Me:
-| Full-Stack & Python Developer | <br>| Generative AI & Gaming Enthusiast | <br>| Proficient in React, Node.js, Django, MySQL | <br>| BTech CST'27 |
+| Full-Stack & Python Developer | | Generative AI & Gaming Enthusiast | | Proficient in React, Node.js, Django, MySQL | | BTech CST'27 |
 
 
 # 💻 Tech Stack:
