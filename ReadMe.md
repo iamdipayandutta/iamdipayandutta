@@ -38,11 +38,10 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=iamdipayandutta&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdipayandutta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=iamdipayandutta&icon=0&color=0)](https://visitcount.itsvg.in)
-
 [![View Resume](https://img.icons8.com/ios-filled/50/ffffff/resume.png)](https://github.com/iamdipayandutta/resume/blob/main/resumeeee%20green.pdf)
+
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/iamdipayandutta">
