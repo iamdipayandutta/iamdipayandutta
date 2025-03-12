@@ -6,6 +6,9 @@
 ## 👤 **Socials**  
 <table width="90%">
 <div style="display: flex; align-items: center; justify-content: space-between;">
+<p align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZldHBxejM1Nm93eTJoaDB3YXR0NzRubDF4bDRmaW9jZTJ2c3kxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnumbVzEMgsI4rjrg2/giphy.gif" width="70px">
+</p>
   <tr>
     <td align="left">
       <img src="PicsArt_10-07-11.10.16.png" alt="Logo" width="80px"/>
@@ -26,9 +29,6 @@
       <a href="https://www.twitch.tv/spedorio" target="_blank">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&logoWidth=20" height="25">
       </a>
-<p align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZldHBxejM1Nm93eTJoaDB3YXR0NzRubDF4bDRmaW9jZTJ2c3kxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnumbVzEMgsI4rjrg2/giphy.gif" width="70px">
-</p>
     </td>
   </tr>
   </div>
