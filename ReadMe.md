@@ -1,9 +1,7 @@
 <img src="linked in cover.jpg" alt="GitHub Banner" width="100%" />
 
-# 💫 About Me:
-🚀 **Full-Stack & Python Developer** | 🎮 **Generative AI & Gaming Enthusiast**  
-💻 **Proficient in:** React, Node.js, Django, MySQL  
-🎓 **BTech CST'27**
+# Hello World!, I'm DipayanDutta , Web Dev & PY Dev 👋🏼:
+🛜 currently working on my own [webpage] <br>👨🏼‍🎓 studying computer science at JIS College of Engineering <br>🤖 Generative AI & Gaming Enthusiast <br>
 
 ---
 
