@@ -1,6 +1,6 @@
 <img src="linked in cover.jpg" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm DipayanDutta , Web Dev & PY Dev 👋🏼:
+# Hello World! I'm DipayanDutta - Web & PY Dev 👋🏼 :
 🛜 currently working on my own [webpage] <br>👨🏼‍🎓 studying computer science at JIS College of Engineering <br>🤖 Generative AI & Gaming Enthusiast <br>
 
 ---
