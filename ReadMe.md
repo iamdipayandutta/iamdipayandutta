@@ -5,7 +5,7 @@
 
 ## 👤 **iamdipayandutta**  
 <p align="center">
-  <img src="PicsArt_10-07-11.10.16.png" alt="Logo" width="150px"/>
+  <img src="PicsArt_10-07-11.10.16.png" alt="Logo" width="110px"/>
 </p>  
 
 # 💻 Tech Stack:
