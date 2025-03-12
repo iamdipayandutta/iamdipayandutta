@@ -5,7 +5,7 @@
 
 ## 👤 **Socials**  
 <table width="90%">
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div align="center">
 <tr>
   <td align="left">
       <img src="PicsArt_10-07-11.10.16.png" alt="Logo" width="90px"/>
