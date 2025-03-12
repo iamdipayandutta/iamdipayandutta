@@ -3,7 +3,7 @@
 # 💫 About Me:
 | Full-Stack & Python Developer | | Generative AI & Gaming Enthusiast | | Proficient in React, Node.js, Django, MySQL | | BTech CST'27 |
 
-## 👤 **Spedorio**  
+## 👤 **Socials**  
 <table width="90%">
   <tr>
     <td align="left">
