@@ -1,7 +1,7 @@
 <img src="linked in cover.jpg" alt="GitHub Banner" width="100%" />
 
-# Hello World! I'm DipayanDutta - Web & PY Dev 👋🏼 :
-🛜 currently working on my own [webpage] <br>👨🏼‍🎓 studying computer science at JIS College of Engineering <br>🤖 Generative AI & Gaming Enthusiast <br>
+# Hello World! I'm DipayanDutta 👋🏼 :
+<h2><strong>Full-Stack & Python Developer <br>👨🏼‍🎓 studying computer science at JIS College of Engineering <br>🤖 Generative AI & Gaming Enthusiast </strong></h2> 
 
 ---
 
