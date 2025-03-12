@@ -40,7 +40,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdipayandutta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=iamdipayandutta&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="image.png" alt="View Resume" height="50"src="https://github.com/iamdipayandutta/resume/blob/main/resumeeee%20green.pdf">
+<a href="https://github.com/iamdipayandutta/resume/blob/main/resumeeee%20green.pdf">
+    <img src="image.png" alt="View Resume" height="50">
+</a>
+
 
 
 <h2>❤️ Support Me</h2>
