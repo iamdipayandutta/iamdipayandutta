@@ -4,7 +4,7 @@
 | Full-Stack & Python Developer | | Generative AI & Gaming Enthusiast | | Proficient in React, Node.js, Django, MySQL | | BTech CST'27 |
 
 ## 👤 **Socials**  
-<table width="90%">
+<table width="100%">
 <div align="center">
 <tr>
   <td align="left">
