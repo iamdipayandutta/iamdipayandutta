@@ -25,6 +25,9 @@
       <a href="https://www.twitch.tv/spedorio" target="_blank">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&logoWidth=20" height="25">
       </a>
+      <a href="https://steamcommunity.com/profiles/76561199058959718/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white&logoWidth=20" height="25">
+</a>
     </td>
   </tr>
 </table>
