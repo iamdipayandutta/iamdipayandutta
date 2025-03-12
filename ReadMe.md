@@ -42,7 +42,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=iamdipayandutta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Resume](https://img.shields.io/badge/My%20Resume-Download-blue?style=for-the-badge)](resumeeee green.pdf)
+[![Resume](https://img.shields.io/badge/My%20Resume-Download-blue?style=for-the-badge)](https://github.com/iamdipayandutta/resume/blob/main/resumeeee%20green.pdf)
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/iamdipayandutta">
