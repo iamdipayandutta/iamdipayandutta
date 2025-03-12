@@ -12,19 +12,19 @@
     </td>
     <td align="right">
       <a href="https://www.youtube.com/@spedorio" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=20" height="30">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=20" height="40">
       </a>
       <a href="https://x.com/iamdipayandutta" target="_blank">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20" height="30">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20" height="40">
       </a>
       <a href="https://www.linkedin.com/in/iamdipayandutta/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" height="30">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" height="40">
       </a>
       <a href="https://www.instagram.com/spedorio/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" height="30">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" height="40">
       </a>
       <a href="https://www.twitch.tv/spedorio" target="_blank">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&logoWidth=20" height="30">
+        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&logoWidth=20" height="40">
       </a>
     <a><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZldHBxejM1Nm93eTJoaDB3YXR0NzRubDF4bDRmaW9jZTJ2c3kxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnumbVzEMgsI4rjrg2/giphy.gif" width="80px">
     </a>
