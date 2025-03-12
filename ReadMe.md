@@ -1,3 +1,6 @@
+<img src="linked in cover.jpg" alt="GitHub Banner" width="100%" />
+
+
 # 💫 About Me:
 | Full-Stack & Python Developer | | Generative AI & Gaming Enthusiast | | Proficient in React, Node.js, Django, MySQL | | BTech CST'27 |
 
