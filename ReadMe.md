@@ -8,7 +8,7 @@
 <div align="center">
 <tr>
   <td align="left">
-      <img src="PicsArt_10-07-11.10.16.png" alt="Logo" width="70px"/>
+      <img src="logo.png" alt="Logo" width="70px"/>
     </td>
     <td align="right">
       <a href="https://www.youtube.com/@spedorio" target="_blank">
