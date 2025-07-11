@@ -39,7 +39,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=iamdipayandutta&icon=0&color=0)](https://visitcount.itsvg.in)
 <a href="https://github.com/iamdipayandutta/resume/blob/main/resumeeee%20green.pdf">
-    <img src="image.png" alt="View Resume" height="20">
+    <img src="image.png" alt="View Resume" height="40">
 </a>
 
 
