@@ -1,4 +1,4 @@
-<img src="linked in cover.png" alt="GitHub Banner" width="100%" />
+<img src="Purple Modern Geometric Graphic Designer LinkedIn Banner (1).pdf_20260322_125908_0000_1.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 | Full-Stack & Python Developer | | Generative AI & Gaming Enthusiast | | Proficient in React, Node.js, Django, MySQL | | BTech CST'27 |
